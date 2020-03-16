@@ -1,2 +1,6 @@
 # short_stories
-my first html page
+A pure Html basic page created.
+Where the whole page is divided into three parts.
+First, Genre.
+Second, Famous author for children short stories - Author's.
+Third, My Personal Choice Short Stories - Link to Wikipedia.
